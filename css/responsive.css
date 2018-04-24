@@ -1,0 +1,19 @@
+@media screen and (min-width: 200px) {
+    .hand{
+        width: 300px;
+        max-height: 300px;
+    }
+}
+@media screen and (min-width: 560px) {
+    .hand{
+        width: 500px;
+        max-height: 500px;
+    }
+}
+@media screen and (min-width: 960px) {
+    .hand{
+        width: 600px;
+        max-height: 600px;
+    }
+
+}
