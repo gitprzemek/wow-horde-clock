@@ -7,14 +7,14 @@ body{
     margin: 0;
     padding: 0;
     background-image: url(../images/horde-bg.jpg);
-    background-size: auto;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     text-align: center;
     /* height: 100vh; */
 }
 .main-container{
-    height: 70vh;
+    height: 100vh;
 }
 .clock{
     left: 50%;

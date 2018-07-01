@@ -1,4 +1,7 @@
-@media screen and (min-width: 200px) {
+@media screen and (max-width: 559px) {
+    body{
+        background-size: auto;
+    }
     .hand{
         width: 300px;
         max-height: 300px;
